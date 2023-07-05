@@ -1,0 +1,5 @@
+ favorite_movie: Sherlock_Holmes
+ favorite_serial: Breaking Bad, House.M.D., Lie to me
+ favorite_food: i just like to eat
+ favorite_season: summer
+ сountry_to_visit: USA
