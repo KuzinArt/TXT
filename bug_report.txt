@@ -1,1 +1,13 @@
-
+ID:
+ Severity:Blocker. Блокирующая ошибка.
+          Critical. Критическая ошибка.
+          Major. Существенный баг.
+          Minor. Незначительный баг. 
+          Trivial. Тривиальный баг.
+Environment:
+Title":
+Steps":
+ER":
+AR:
+Author:
+Bug comments:
